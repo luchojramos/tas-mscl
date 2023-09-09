@@ -8,30 +8,13 @@
         "env": []
     },
     {
-        "id": "09edbbb45af692f8",
-        "type": "inject",
+        "id": "5c867b576e8f0a74",
+        "type": "comment",
         "z": "a3215aea022fb106",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 340,
-        "y": 180,
-        "wires": [
-            []
-        ]
+        "name": "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",
+        "info": "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",
+        "x": 630,
+        "y": 280,
+        "wires": []
     }
 ]
